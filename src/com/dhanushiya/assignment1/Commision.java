@@ -1,4 +1,4 @@
-package com.tnsif.assignment1;
+package com.dhanushiya.assignment1;
 import java.util.Scanner;
 
 public class Commision  

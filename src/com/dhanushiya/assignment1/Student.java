@@ -1,4 +1,4 @@
-package com.tnsif.assignment1;
+package com.dhanushiya.assignment1;
 
 public class Student {
    Student(){
